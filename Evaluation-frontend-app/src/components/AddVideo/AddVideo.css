@@ -1,0 +1,27 @@
+input {
+    height: 40px;
+    width: 24rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-family: 10px;
+}
+img {
+    height: 30rem;
+    width: 30rem;
+}
+label {
+    color: rgb(190, 215, 238);
+    font-size: 18px;
+}
+.form-container {
+   
+    background-color: #00684a;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+@media screen and (max-width:767px){
+    img {
+        height: 15rem;
+        width: 15rem;
+    }
+}
